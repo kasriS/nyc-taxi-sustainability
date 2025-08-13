@@ -1,5 +1,4 @@
 # nyc-taxi-sustainability
- NYC Taxi Trip Duration Prediction for Sustainable Urban Transport
 # NYC Taxi Trip Duration Prediction for Sustainable Urban Transport
 
 ## 🌍 Contributing to UN Sustainable Development Goals
